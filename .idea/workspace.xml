@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dd29fd33-70df-40fe-8cff-4f44e3278d74" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+        <option value="Go Application" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="C:\Go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1kagdB5FhB6UZV1uou8igacX95F" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="sqlite" />
+    <property name="DefaultGoTemplateProperty" value="Go Application" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="configurable.Global.GOPATH.is.expanded" value="true" />
+    <property name="configurable.Module.GOPATH.is.expanded" value="false" />
+    <property name="configurable.Project.GOPATH.is.expanded" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="database.main" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dd29fd33-70df-40fe-8cff-4f44e3278d74" name="Default Changelist" comment="" />
+      <created>1605944200190</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605944200190</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="561" y="71" key="#GOPATH" timestamp="1605945651589">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="561" y="71" key="#GOPATH/0.0.1536.824@0.0.1536.824" timestamp="1605945651589" />
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1605951309943">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1605951309943" />
+    <state x="411" y="163" key="FileChooserDialogImpl" timestamp="1605951304704">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="411" y="163" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1605951304704" />
+    <state width="1014" height="208" key="GridCell.Tab.0.bottom" timestamp="1606036022865">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1014" height="208" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1606036022865" />
+    <state width="1014" height="208" key="GridCell.Tab.0.center" timestamp="1606036022865">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1014" height="208" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1606036022865" />
+    <state width="1014" height="208" key="GridCell.Tab.0.left" timestamp="1606036022865">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1014" height="208" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1606036022865" />
+    <state width="1014" height="208" key="GridCell.Tab.0.right" timestamp="1606036022865">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1014" height="208" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1606036022865" />
+    <state width="189" height="457" key="HiddenNamespacesPopup" timestamp="1606024381829">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="189" height="457" key="HiddenNamespacesPopup/0.0.1536.824@0.0.1536.824" timestamp="1606024381829" />
+    <state x="277" y="57" key="SettingsEditor" timestamp="1606034995568">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="277" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1606034995568" />
+    <state x="499" y="217" key="com.intellij.database.dbimport.ImportUtil.ChooseTargetDialog" timestamp="1606211675725">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="217" key="com.intellij.database.dbimport.ImportUtil.ChooseTargetDialog/0.0.1536.824@0.0.1536.824" timestamp="1606211675725" />
+    <state x="612" y="185" width="520" height="453" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog" timestamp="1606035589737">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="612" y="185" width="520" height="453" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog/0.0.1536.824@0.0.1536.824" timestamp="1606035589737" />
+  </component>
+</project>
